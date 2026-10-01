@@ -11,17 +11,21 @@
 <style>
   .about-hero {
     display: flex;
-    align-items: flex-start;
-    gap: 1.5em;
+    align-items: stretch;
+    gap: 1.25em;
     margin: 0 0 1.5em;
   }
+  .about-hero__photo-wrap {
+    flex: 0 0 auto;
+    display: flex;
+  }
   .about-hero__photo {
-    width: 42%;
-    max-width: 420px;
-    height: auto;
-    border-radius: 0 !important;
+    height: 100%;
+    width: auto;
+    max-height: 100%;
     object-fit: contain !important;
-    flex-shrink: 0;
+    object-position: top left;
+    border-radius: 0 !important;
   }
   .about-hero__text {
     flex: 1;
@@ -30,18 +34,43 @@
   .about-hero__text p:first-child {
     margin-top: 0;
   }
+  .about-hero__text p:last-child {
+    margin-bottom: 0;
+  }
   @media (max-width: 768px) {
     .about-hero {
       flex-direction: column;
+      align-items: flex-start;
+    }
+    .about-hero__photo-wrap {
+      width: 70%;
+      max-width: 280px;
     }
     .about-hero__photo {
       width: 100%;
-      max-width: none;
+      height: auto;
     }
   }
 </style>
 
-<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script>
+  (function () {
+    function syncAboutPhoto() {
+      var photo = document.querySelector(".about-hero__photo");
+      var text = document.querySelector(".about-hero__text");
+      if (!photo || !text) return;
+      if (window.innerWidth <= 768) {
+        photo.style.height = "";
+        photo.style.width = "";
+        return;
+      }
+      photo.style.width = "auto";
+      photo.style.height = text.offsetHeight + "px";
+    }
+    window.addEventListener("load", syncAboutPhoto);
+    window.addEventListener("resize", syncAboutPhoto);
+  })();
+</script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
