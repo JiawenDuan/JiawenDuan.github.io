@@ -54,14 +54,15 @@ My research interests lie in interactive large language models and cognitive com
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Foresight Optimization for Strategic Reasoning in Large Language Models](https://arxiv.org/abs/2604.13592)
-Jiashuo Wang, **Jiawen Duan**, Jian Wang, Kaitao Song, Chunpu Xu, Johnny K. W. Ho, Fenggang Yu, Wenjie Li, Johan F. Hoorn
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper . 
-</div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="images/fopo.png?v=orig" alt="Foresight Optimization">
+  </div>
+  <div class="paper-box-text">
+    <div class="paper-title">Foresight Optimization for Strategic Reasoning in Large Language Models</div>
+    <div class="paper-authors">Jiashuo Wang<sup>*</sup>, <strong>Jiawen Duan</strong><sup>*</sup>, Jian Wang, Kaitao Song, Chunpu Xu, Johnny K. W. Ho, Fenggang Yu, Wenjie Li<sup>†</sup>, Johan F. Hoorn</div>
+    <div class="paper-links"><a href="https://arxiv.org/abs/2604.13592">arXiv</a></div>
+  </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
