@@ -19,17 +19,17 @@ redirect_from:
 
 <div class="about-hero">
   <div class="about-hero__intro">
-    <h1 class="about-hero__name" style="font-size:48px;font-weight:700;margin:0 0 0.6em;padding:0;border:none;line-height:1.15;color:#111;">Jiawen Duan (段嘉文)</h1>
+    <div class="about-hero__name">Jiawen Duan (段嘉文)</div>
     <p class="about-hero__role">M.Phil Student</p>
     <p class="about-hero__affil">
       Department of Computing,<br>
-      The Hong Kong Polytechnic University (PolyU)
-    </p>
-    <p class="about-hero__email">
-      <strong>Email:</strong> Lorem (at) ipsum.com
+      The Hong Kong Polytechnic University,<br>
+      Hung Hom, Kowloon, Hong Kong, China
     </p>
     <p class="about-hero__links">
       <a href="https://github.com/JiawenDuan"><i class="fab fa-github"></i> Github</a>
+      <span class="about-hero__sep">|</span>
+      <a href="mailto:Lorem@ipsum.com"><i class="fas fa-envelope"></i> Email</a>
       <span class="about-hero__sep">|</span>
       <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
     </p>

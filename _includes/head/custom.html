@@ -40,62 +40,55 @@
     flex: 1;
     min-width: 0;
     text-align: left;
+    padding-top: 0;
   }
-  .page__content h1.about-hero__name {
-    margin: 0 0 0.75em !important;
+  .about-hero__name {
+    margin: 0 0 0.7em !important;
     padding: 0 !important;
     border: 0 !important;
-    font-size: 2.6em !important;
-    font-weight: bold !important;
-    line-height: 1.15 !important;
+    font-size: 32px !important;
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
     color: #111 !important;
-  }
-  .page__content h1.about-hero__name:before {
-    display: none !important;
-    height: 0 !important;
-    margin: 0 !important;
   }
   .about-hero__role {
     margin: 0 0 0.55em;
-    font-size: 1.08em;
+    font-size: 1.05em;
     font-weight: 700;
     color: #222;
   }
   .about-hero__affil {
-    margin: 0 0 1em;
-    line-height: 1.55;
-    color: #333;
-  }
-  .about-hero__email {
     margin: 0 0 1.1em;
     line-height: 1.55;
     color: #333;
   }
   .about-hero__links {
     margin: 0;
+    font-weight: 600;
   }
   .about-hero__sep {
-    margin: 0 0.45em;
-    color: #888;
+    margin: 0 0.4em;
+    color: #9aa0a6;
   }
   .about-hero__links a {
-    color: inherit;
-    text-decoration: none;
+    color: #2563eb !important;
+    text-decoration: none !important;
   }
   .about-hero__links a:hover {
-    text-decoration: underline;
+    text-decoration: underline !important;
   }
   .about-hero__photo-wrap {
-    flex: 0 0 220px;
-    width: 220px;
-    margin-top: 0;
+    flex: 0 0 300px;
+    width: 300px;
+    margin: 0;
+    padding: 0;
   }
   .about-hero__photo {
     display: block;
-    width: 220px;
+    width: 300px;
     height: auto;
     object-fit: contain !important;
-    border-radius: 0 !important;
+    border-radius: 6px;
   }
   .about-bio {
     margin: 0 0 1.75em;
@@ -112,6 +105,12 @@
     }
     .about-hero {
       flex-direction: column;
+    }
+    .about-hero__photo-wrap,
+    .about-hero__photo {
+      width: 100%;
+      max-width: 300px;
+      flex-basis: auto;
     }
   }
 </style>
