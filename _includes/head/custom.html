@@ -11,7 +11,7 @@
 <style>
   .about-hero {
     display: flex;
-    align-items: stretch;
+    align-items: flex-start;
     gap: 1.25em;
     margin: 0 0 1.5em;
   }
@@ -20,9 +20,9 @@
     display: flex;
   }
   .about-hero__photo {
-    height: 100%;
     width: auto;
-    max-height: 100%;
+    height: auto;
+    max-height: 66.666%;
     object-fit: contain !important;
     object-position: top left;
     border-radius: 0 !important;
@@ -43,12 +43,13 @@
       align-items: flex-start;
     }
     .about-hero__photo-wrap {
-      width: 70%;
-      max-width: 280px;
+      width: 46%;
+      max-width: 186px;
     }
     .about-hero__photo {
       width: 100%;
       height: auto;
+      max-height: none;
     }
   }
 </style>
@@ -65,7 +66,7 @@
         return;
       }
       photo.style.width = "auto";
-      photo.style.height = text.offsetHeight + "px";
+      photo.style.height = Math.round(text.offsetHeight * 2 / 3) + "px";
     }
     window.addEventListener("load", syncAboutPhoto);
     window.addEventListener("resize", syncAboutPhoto);
