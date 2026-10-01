@@ -52,21 +52,21 @@ My research interests lie in interactive large language models and cognitive com
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
+[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/2604.13592)
+Jiashuo Wang, **Jiawen Duan**, Jian Wang, Kaitao Song, Chunpu Xu, Johnny K. W. Ho, Fenggang Yu, Wenjie Li, Johan F. Hoorn
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
 
 # 🎖 Honors and Awards
 
@@ -97,5 +97,15 @@ My research interests lie in interactive large language models and cognitive com
 # 💻 Experiences
 - *2026.06 - 2026.09*, Research Assistant at the Liang's Lab.
 - *2025.04 - 2026.06*, Undergraduate Researcher at The PolyU NLP Lab.
-- *2024.03 - 2024.06*, Independent Dance Instructor at The HKU Yue Rong Dance Troupe.
-- *2023.06 - 2024.09*, The 14th Committee Member of PolyU Hall Dance Team (Performance Team Manager).
+
+<div class="misc-row">
+  <div class="misc-row__text" markdown="1">
+
+# 🪐 Misc.
+- I really love dancing and have long been hoping it could be part of my career. I worked as a dance instructor at the HKU Yue Rong Dance Troupe in 2024. I was also the 14th Committee Member of PolyU Hall Dance Team (Performance Team Manager). In fact, I have been thinking about how to enhance LLMs' dance understanding ability, especially on understanding the dancers' emotions and intentions.
+- I enjoy paiting pictures. Check out one of my proudest work!
+- I also love playing chess, though I am not quite good at it. You can find me at Chess Aliance account by 2516210!
+
+  </div>
+  <img src="images/painting.jpg" alt="One of my paintings" class="misc-row__photo">
+</div>

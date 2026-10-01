@@ -139,13 +139,36 @@
   .about-bio p:first-child {
     margin-top: 0;
   }
+  .misc-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1.5em;
+    margin: 0 0 1.5em;
+  }
+  .misc-row__text {
+    flex: 1;
+    min-width: 0;
+  }
+  .misc-row__text h1 {
+    margin-top: 0 !important;
+  }
+  .misc-row__photo {
+    flex: 0 0 200px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    border-radius: 0;
+  }
   @media (max-width: 768px) {
     #main,
     .masthead__inner-wrap {
       padding-left: 1.25em !important;
       padding-right: 1.25em !important;
     }
-    .about-hero {
+    .about-hero,
+    .misc-row {
       flex-direction: column;
     }
     .about-hero__photo-wrap,
