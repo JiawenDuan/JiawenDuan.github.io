@@ -61,6 +61,7 @@ My research interests lie in interactive large language models and cognitive com
   <div class="paper-box-text">
     <div class="paper-title">Foresight Optimization for Strategic Reasoning in Large Language Models</div>
     <div class="paper-authors">Jiashuo Wang<sup>*</sup>, <strong>Jiawen Duan</strong><sup>*</sup>, Jian Wang, Kaitao Song, Chunpu Xu, Johnny K. W. Ho, Fenggang Yu, Wenjie Li<sup>†</sup>, Johan F. Hoorn</div>
+    <div class="paper-venue">Oral paper in the 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026</div>
     <div class="paper-links"><a href="https://arxiv.org/abs/2604.13592">arXiv</a></div>
   </div>
 </div>
@@ -99,4 +100,6 @@ My research interests lie in interactive large language models and cognitive com
 - *2026.06 - 2026.09*, Research Assistant at the Liang's Lab.
 - *2025.04 - 2026.06*, Undergraduate Researcher at The PolyU NLP Lab.
 
+{::nomarkdown}
 {% include misc.html %}
+{:/}
