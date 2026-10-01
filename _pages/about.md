@@ -98,16 +98,4 @@ Jiashuo Wang, **Jiawen Duan**, Jian Wang, Kaitao Song, Chunpu Xu, Johnny K. W. H
 - *2026.06 - 2026.09*, Research Assistant at the Liang's Lab.
 - *2025.04 - 2026.06*, Undergraduate Researcher at The PolyU NLP Lab.
 
-<div class="misc-row">
-  <div class="misc-row__text">
-    <h1 id="-misc">🪐 Misc.</h1>
-    <ul>
-      <li>I really love dancing and have long been hoping it could be part of my career. I worked as a dance instructor at the HKU Yue Rong Dance Troupe in 2024. I was also the 14th Committee Member of PolyU Hall Dance Team (Performance Team Manager). In fact, I have been thinking about how to enhance LLMs' dance understanding ability, especially on understanding the dancers' emotions and intentions.</li>
-      <li>I enjoy paiting pictures. Check out one of my proudest work!</li>
-      <li>I also love playing chess, though I am not quite good at it. You can find me at Chess Aliance account by 2516210!</li>
-    </ul>
-  </div>
-  <div class="misc-row__photo-wrap">
-    <img src="images/painting.jpg?v=full" alt="One of my paintings" class="misc-row__photo">
-  </div>
-</div>
+{% include misc.html %}
