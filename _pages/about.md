@@ -17,9 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div class="about-hero">
+  <img src="images/jiawen.jpg?v=original" alt="Jiawen Duan" class="about-hero__photo">
+  <div class="about-hero__text" markdown="1">
+
 Hi! I am Jiawen, a first-year MPhil student in Natural Language Processing in the Department of Computing, The Hong Kong Polytechnic University (PolyU). I am fortunately advised by Prof. Wenjie Li at the PolyU NLP Lab. Before that, I earned my Bachelor's degree in PolyU studying Linguistics with a Secondary Major in Artificial Intelligence and Data Analytics, where I was honored to work under Prof. Wenjie Li's guidance. During the summer, I was also honored to work with Prof. Hualou Liang on LLM agents for Alzheimer's disease detection.
 
-My research interests lie in interactive large language models and cognitive computing, and I am especially interested in emotions. Currently, I am exploring virtual reality for social good. 
+My research interests lie in interactive large language models and cognitive computing, and I am especially interested in emotions. Currently, I am exploring virtual reality for social good.
+
+  </div>
+</div> 
 
 
 # 🔥 News

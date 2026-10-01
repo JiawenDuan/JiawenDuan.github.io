@@ -9,12 +9,35 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 <style>
-  .author__portrait {
-    width: 100% !important;
-    max-width: none !important;
-    height: auto !important;
+  .about-hero {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5em;
+    margin: 0 0 1.5em;
+  }
+  .about-hero__photo {
+    width: 42%;
+    max-width: 420px;
+    height: auto;
     border-radius: 0 !important;
     object-fit: contain !important;
+    flex-shrink: 0;
+  }
+  .about-hero__text {
+    flex: 1;
+    min-width: 0;
+  }
+  .about-hero__text p:first-child {
+    margin-top: 0;
+  }
+  @media (max-width: 768px) {
+    .about-hero {
+      flex-direction: column;
+    }
+    .about-hero__photo {
+      width: 100%;
+      max-width: none;
+    }
   }
 </style>
 
