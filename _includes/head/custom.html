@@ -9,53 +9,67 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 <style>
+  .masthead__inner-wrap,
+  #main {
+    max-width: 960px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 3.5em !important;
+    padding-right: 3.5em !important;
+  }
   #main .page {
     width: 100% !important;
     float: none !important;
     padding-left: 0 !important;
     margin-left: 0 !important;
   }
+  .page__content,
+  .page__content h1,
+  .page__content p,
+  .page__content ul {
+    text-align: left;
+  }
   .about-hero {
     display: flex;
     align-items: flex-start;
-    gap: 1.5em;
-    margin: 0 0 1.25em;
-  }
-  .about-hero__photo-wrap {
-    flex: 0 0 240px;
-    width: 240px;
-  }
-  .about-hero__photo {
-    display: block;
-    width: 240px;
-    height: auto;
-    object-fit: contain !important;
-    border-radius: 0 !important;
+    justify-content: space-between;
+    gap: 2em;
+    margin: 0 0 1.5em;
   }
   .about-hero__intro {
     flex: 1;
     min-width: 0;
+    text-align: left;
   }
   .about-hero__name {
-    margin: 0 0 0.45em;
-    font-size: 1.85em;
-    line-height: 1.2;
+    margin: 0 0 0.85em;
+    font-size: 1.9em;
+    line-height: 1.15;
     font-weight: 700;
     color: #222;
   }
   .about-hero__role {
-    margin: 0 0 0.6em;
-    font-size: 1.05em;
+    margin: 0 0 0.55em;
+    font-size: 1.08em;
     font-weight: 700;
     color: #222;
   }
   .about-hero__affil {
     margin: 0 0 1em;
     line-height: 1.55;
-    color: #444;
+    color: #333;
+  }
+  .about-hero__email {
+    margin: 0 0 1.1em;
+    line-height: 1.55;
+    color: #333;
   }
   .about-hero__links {
     margin: 0;
+  }
+  .about-hero__sep {
+    margin: 0 0.45em;
+    color: #888;
   }
   .about-hero__links a {
     color: inherit;
@@ -64,13 +78,31 @@
   .about-hero__links a:hover {
     text-decoration: underline;
   }
+  .about-hero__photo-wrap {
+    flex: 0 0 220px;
+    width: 220px;
+    margin-top: 0;
+  }
+  .about-hero__photo {
+    display: block;
+    width: 220px;
+    height: auto;
+    object-fit: contain !important;
+    border-radius: 0 !important;
+  }
   .about-bio {
     margin: 0 0 1.75em;
+    text-align: left;
   }
   .about-bio p:first-child {
     margin-top: 0;
   }
   @media (max-width: 768px) {
+    #main,
+    .masthead__inner-wrap {
+      padding-left: 1.25em !important;
+      padding-right: 1.25em !important;
+    }
     .about-hero {
       flex-direction: column;
     }
