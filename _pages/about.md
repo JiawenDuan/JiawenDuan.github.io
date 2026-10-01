@@ -77,7 +77,7 @@ My research interests lie in interactive large language models and cognitive com
   </li>
   <li>
     <div class="honor-title">The 11th 「Internet+」 互聯網+ Innovation and Entrepreneurship Competition (National Bronze Award)</div>
-    <div class="honor-detail">Our project, "Innovative Structure-Based Type IV Hydrogen Storage Bottle," was selected for the Hong Kong SAR team.</div>
+    <div class="honor-detail">Our project, "Innovative Structure-Based Type IV Hydrogen Storage Bottle," was selected for the Hong Kong SAR&nbsp;team.</div>
   </li>
   <li>
     <div class="honor-title">Dean's Certificate of Academic Achievement</div>
@@ -92,7 +92,7 @@ My research interests lie in interactive large language models and cognitive com
 # 📖 Education
 - *2026.09 - Present*, The Hong Kong Polytechnic University. Department of Computing, the PolyU NLP Lab. 
 - *2022.09 - 2026.06*, The Hong Kong Polytechnic University. Department of Language Science and Technology. 
-- *2016.09 - 2022.06*, The Affiliated High-school (Midschool) of Peking Univerisity, Yuanpei Program.
+- *2016.09 - 2022.06*, The Affiliated High-school (Midschool) of Peking Univerisity. Yuanpei Program.
 
 # 💻 Experiences
 - *2026.06 - 2026.09*, Research Assistant at the Liang's Lab.
