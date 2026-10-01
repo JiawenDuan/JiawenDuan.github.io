@@ -69,37 +69,21 @@
    Author profile and links
    ========================================================================== */
 .profile_box{
-  @include breakpoint($large) {
-    display: block;
-  }
-  display: flex;
-  justify-content: flex-start;
-  align-content: flex-start;
-  align-items: center;
+  display: block;
 }
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 110px;
+  display: block;
+  width: 100%;
+  max-width: 280px;
+  margin: 0 0 1em;
 
-  @include breakpoint($large) {
+  .author__portrait {
     display: block;
     width: 100%;
     height: auto;
-  }
-
-  img {
-    width: 100%;
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
+    border-radius: 0;
     object-fit: contain;
-
-    @include breakpoint($large) {
-      padding: 0;
-      border: 1px solid $border-color;
-    }
   }
 }
 
