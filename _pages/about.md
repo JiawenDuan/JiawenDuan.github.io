@@ -69,13 +69,28 @@ My research interests lie in interactive large language models and cognitive com
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- HKSAR Government Scholarship Fund<br>Talent Development Scholarship (HK$10,000) for Outstanding InnoTech Achievements, 2025/26.
-- The 11th 「Internet+」 互聯網+ Innovation and Entrepreneurship Competition (National Bronze Award).<br>Our project, "Innovative Structure-Based Type IV Hydrogen Storage Bottle," was selected for the Hong Kong SAR team.
-- Dean's Certificate of Academic Achievement<br>Awarded for academic excellence in the Faculty of Humanities, 2024/25.
-- The 10th 「創青春」 Youth Innovation and Entrepreneurship Competition (Third Prize).<br>Our project, "Practices and Applications of New Agricultural Biotechnology in the Dual Carbon Context," was awarded third prize at the Guangdong–Hong Kong–Macao Greater Bay Area Youth Innovation and Entrepreneurship Competition.
+
+<ul class="honor-list">
+  <li>
+    <div class="honor-title">HKSAR Government Scholarship Fund</div>
+    <div class="honor-detail">Talent Development Scholarship (HK$10,000) for Outstanding InnoTech Achievements, 2025/26.</div>
+  </li>
+  <li>
+    <div class="honor-title">The 11th 「Internet+」 互聯網+ Innovation and Entrepreneurship Competition (National Bronze Award)</div>
+    <div class="honor-detail">Our project, "Innovative Structure-Based Type IV Hydrogen Storage Bottle," was selected for the Hong Kong SAR team.</div>
+  </li>
+  <li>
+    <div class="honor-title">Dean's Certificate of Academic Achievement</div>
+    <div class="honor-detail">Awarded for academic excellence in the Faculty of Humanities, 2024/25.</div>
+  </li>
+  <li>
+    <div class="honor-title">The 10th 「創青春」 Youth Innovation and Entrepreneurship Competition (Third Prize)</div>
+    <div class="honor-detail">Our project, "Practices and Applications of New Agricultural Biotechnology in the Dual Carbon Context," was awarded third prize at the Guangdong–Hong Kong–Macao Greater Bay Area Youth Innovation and Entrepreneurship Competition.</div>
+  </li>
+</ul>
 
 # 📖 Education
-- *2026.09 - present*, The Hong Kong Polytechnic University. Department of Computing, the PolyU NLP Lab. 
+- *2026.09 - Present*, The Hong Kong Polytechnic University. Department of Computing, the PolyU NLP Lab. 
 - *2022.09 - 2026.06*, The Hong Kong Polytechnic University. Department of Language Science and Technology. 
 - *2016.09 - 2022.06*, The Affiliated High-school (Midschool) of Peking Univerisity, Yuanpei Program.
 
