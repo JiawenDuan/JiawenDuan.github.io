@@ -57,10 +57,10 @@ My research interests lie in interactive large language models and cognitive com
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/2604.13592)
+[Foresight Optimization for Strategic Reasoning in Large Language Models](https://arxiv.org/abs/2604.13592)
 Jiashuo Wang, **Jiawen Duan**, Jian Wang, Kaitao Song, Chunpu Xu, Johnny K. W. Ho, Fenggang Yu, Wenjie Li, Johan F. Hoorn
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper . 
 </div>
 </div>
 
@@ -92,7 +92,7 @@ Jiashuo Wang, **Jiawen Duan**, Jian Wang, Kaitao Song, Chunpu Xu, Johnny K. W. H
 # 📖 Education
 - *2026.09 - Present*, The Hong Kong Polytechnic University. Department of Computing, the PolyU NLP Lab. 
 - *2022.09 - 2026.06*, The Hong Kong Polytechnic University. Department of Language Science and Technology. 
-- *2016.09 - 2022.06*, The Affiliated High-school (Midschool) of Peking Univerisity. Yuanpei Program.
+- *2019.09 - 2022.06*, The Affiliated High-school of Peking Univerisity. Yuanpei Program.
 
 # 💻 Experiences
 - *2026.06 - 2026.09*, Research Assistant at the Liang's Lab.
