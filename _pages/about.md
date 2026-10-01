@@ -19,8 +19,8 @@ redirect_from:
 
 <div class="about-hero">
   <div class="about-hero__intro">
-    <p class="about-hero__name">Jiawen Duan (段嘉文)</p>
-    <p class="about-hero__role">First-year MPhil Student</p>
+    <h1 class="about-hero__name">Jiawen Duan (段嘉文)</h1>
+    <p class="about-hero__role">M.Phil Student</p>
     <p class="about-hero__affil">
       Department of Computing,<br>
       The Hong Kong Polytechnic University (PolyU)
@@ -41,7 +41,7 @@ redirect_from:
 
 <div class="about-bio" markdown="1">
 
-Hi! I am Jiawen, a first-year MPhil student in Natural Language Processing in the Department of Computing, The Hong Kong Polytechnic University (PolyU). I am fortunately advised by Prof. Wenjie Li at the PolyU NLP Lab. Before that, I earned my Bachelor's degree in PolyU studying Linguistics with a Secondary Major in Artificial Intelligence and Data Analytics, where I was honored to work under Prof. Wenjie Li's guidance. During the summer, I was also honored to work with Prof. Hualou Liang on LLM agents for Alzheimer's disease detection.
+Hi! I am Jiawen, a first-year MPhil student fortunately advised by Prof. Wenjie Li at the PolyU NLP Lab, where I work on Natural Language Processing in the Department of Computing, The Hong Kong Polytechnic University (PolyU). Before that, I earned my Bachelor's degree in PolyU studying Linguistics with a Secondary Major in Artificial Intelligence and Data Analytics, where I was honored to work under Prof. Wenjie Li's guidance. During the summer, I was also honored to work with Prof. Hualou Liang on LLM agents for Alzheimer's disease detection.
 
 My research interests lie in interactive large language models and cognitive computing, and I am especially interested in emotions. Currently, I am exploring virtual reality for social good.
 
@@ -75,8 +75,12 @@ My research interests lie in interactive large language models and cognitive com
 - The 10th 「創青春」 Youth Innovation and Entrepreneurship Competition (Third Prize). Our project, "Practices and Applications of New Agricultural Biotechnology in the Dual Carbon Context," was awarded third prize at the Guangdong–Hong Kong–Macao Greater Bay Area Youth Innovation and Entrepreneurship Competition.
 
 # 📖 Education
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.09 - present*, The Hong Kong Polytechnic University. Department of Computing, the PolyU NLP Lab. 
+- *2022.09 - 2026.06*, The Hong Kong Polytechnic University. Department of Language Science and Technology. 
+- *2016.09 - 2022.06*, The Affiliated High-school (Midschool) of Peking Univerisity, Yuanpei Program.
 
 # 💻 Experiences
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026.06 - 2026.09*, Research Assistant at the Liang's Lab.
+- *2025.04 - 2026.06*, Undergraduate Researcher at The PolyU NLP Lab.
+- *2024.03 - 2024.06*, Independent Dance Instructor at The HKU Yue Rong Dance Troupe.
+- *2023.06 - 2024.09*, The 14th Committee Member of PolyU Hall Dance Team (Performance Team Manager).
