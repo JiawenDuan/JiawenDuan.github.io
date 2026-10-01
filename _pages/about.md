@@ -107,5 +107,5 @@ Jiashuo Wang, **Jiawen Duan**, Jian Wang, Kaitao Song, Chunpu Xu, Johnny K. W. H
 - I also love playing chess, though I am not quite good at it. You can find me at Chess Aliance account by 2516210!
 
   </div>
-  <img src="images/painting.jpg" alt="One of my paintings" class="misc-row__photo">
+  <img src="images/painting.jpg?v=original" alt="One of my paintings" class="misc-row__photo">
 </div>
