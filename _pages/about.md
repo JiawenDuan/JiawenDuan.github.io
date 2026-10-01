@@ -19,7 +19,7 @@ redirect_from:
 
 <div class="about-hero">
   <div class="about-hero__intro">
-    <h1 class="about-hero__name">Jiawen Duan (段嘉文)</h1>
+    <h1 class="about-hero__name" style="font-size:48px;font-weight:700;margin:0 0 0.6em;padding:0;border:none;line-height:1.15;color:#111;">Jiawen Duan (段嘉文)</h1>
     <p class="about-hero__role">M.Phil Student</p>
     <p class="about-hero__affil">
       Department of Computing,<br>
