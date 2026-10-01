@@ -48,9 +48,11 @@ My research interests lie in interactive large language models and cognitive com
 </div> 
 
 
-# 🔥 News
+{% comment %}
+# News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+{% endcomment %}
 
 # 📝 Selected Publications
 
@@ -70,7 +72,7 @@ My research interests lie in interactive large language models and cognitive com
 
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 
 <ul class="honor-list">
   <li>
