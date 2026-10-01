@@ -19,7 +19,7 @@ redirect_from:
 
 <div class="about-hero">
   <div class="about-hero__intro">
-    <p class="about-hero__name">Jiawen Duan</p>
+    <p class="about-hero__name">Jiawen Duan (段嘉文)</p>
     <p class="about-hero__role">First-year MPhil Student</p>
     <p class="about-hero__affil">
       Department of Computing,<br>
