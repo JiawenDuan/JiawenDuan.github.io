@@ -68,9 +68,6 @@ My research interests lie in interactive large language models and cognitive com
   </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-
 
 # Honors and Awards
 
