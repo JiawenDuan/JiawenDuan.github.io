@@ -99,6 +99,14 @@ My research interests lie in interactive large language models and cognitive com
 - *2026.06 - 2026.09*, Research Assistant at the Liang's Lab.
 - *2025.04 - 2026.06*, Undergraduate Researcher at The PolyU NLP Lab.
 
+# Demo
+Here is a demo me and my friends, Siyuan Liu and Jingwen Yang made. We have been hoping to build a website for learning dances and meeting friends.
+
+<div class="demo-item">
+  <div class="paper-title"><a href="https://youtu.be/uQrSgai8MH8">BreakBeat: AI-Powered Dance Movement Segmentation &amp; Choreography Insight Platform</a></div>
+  <div class="paper-venue">Demo in Conference on Computer Vision and Pattern Recognition (CVPR), 2025</div>
+</div>
+
 {::nomarkdown}
 {% include misc.html %}
 {:/}

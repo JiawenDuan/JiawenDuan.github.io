@@ -18,5 +18,8 @@ main:
   - title: "Experiences"
     url: "/#experiences"
 
+  - title: "Demo"
+    url: "/#demo"
+
   - title: "Misc."
     url: "/#misc"
