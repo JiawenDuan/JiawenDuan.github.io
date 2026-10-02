@@ -54,7 +54,7 @@ My research interests lie in interactive large language models and cognitive com
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 {% endcomment %}
 
-# 📝 Selected Publications
+# Selected Publications
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -93,12 +93,12 @@ My research interests lie in interactive large language models and cognitive com
   </li>
 </ul>
 
-# 📖 Education
+# Education
 - *2026.09 - Present*, The Hong Kong Polytechnic University. Department of Computing, the PolyU NLP Lab. 
 - *2022.09 - 2026.06*, The Hong Kong Polytechnic University. Department of Language Science and Technology. 
 - *2019.09 - 2022.06*, The Affiliated High-school of Peking Univerisity. Yuanpei Program.
 
-# 💻 Experiences
+# Experiences
 - *2026.06 - 2026.09*, Research Assistant at the Liang's Lab.
 - *2025.04 - 2026.06*, Undergraduate Researcher at The PolyU NLP Lab.
 
